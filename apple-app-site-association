@@ -1,25 +1,19 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "ZF9S3X83MZ.com.viamobi.Fines",
-        "paths": [
-          "/app/prepay/*"
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "ZF9S3X83MZ.com.viamobi.Fines",
+                "paths": ["/app/prepay/*"]
+            },
+            {
+                "appID": "ZF9S3X83MZ.com.viamobi.RosTaxes",
+                "paths": ["/app/prepay/*"]
+            },
+            {
+                "appID": "ZF9S3X83MZ.ru.rosfines.rostaxes",
+                "paths": ["/app/prepay/*"]
+            }
         ]
-      },
-      {
-        "appID": "ZF9S3X83MZ.com.viamobi.RosTaxes",
-        "paths": [
-          "/app/prepay/*"
-        ]
-      },
-      {
-        "appID": "ZF9S3X83MZ.ru.rosfines.rostaxes",
-        "paths": [
-          "/app/prepay/*"
-          ]
-      }
-    ]
-  }
+    }
 }
